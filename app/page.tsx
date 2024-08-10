@@ -30,7 +30,7 @@ export default function Home() {
             </div>
             <div className="flex justify-center">
               <img
-                src="/logo.svg"
+                src="/logo1.svg"
                 width="500"
                 height="500"
                 alt="Hero"
