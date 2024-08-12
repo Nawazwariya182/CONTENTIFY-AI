@@ -1,5 +1,3 @@
-Based on the information you've provided, here's a draft for your GitHub README in markdown format:
-
 # CONTENTIFY 🚀
 
 **CONTENTIFY** is a powerful content generator that leverages advanced AI technologies to help you create high-quality content quickly and efficiently. With AI integrations similar to Gemini, this platform offers a seamless user experience, including features like history tracking and secure login.
