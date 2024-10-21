@@ -51,10 +51,6 @@ After setting up, you can access the app at `http://localhost:3000`. Log in usin
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact 📬
 
 For any inquiries or suggestions, feel free to reach out via the [Issues](https://github.com/Nawazwariya182/CONTENTIFY-AI/issues) section of this repository.
